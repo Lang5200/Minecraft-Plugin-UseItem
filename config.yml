@@ -1,0 +1,21 @@
+item:
+  # 这是一个编号，不要重复
+  '1':
+    # (必须)这是判断类型，name或lore或wlore，name=名称一致，lore=lore包含或一致，wlore=lore必须一致
+    type: name
+    # (必须)这是要判断的lore或name
+    string: '测试'
+    # (可选)使用时间 秒
+    time: 1
+    # (可选)是否取消物品原有事件（例如攻击、破坏、放置）
+    isCancelEvents: true
+    # (可选)是否为消耗品 默认false
+    isConsume: true
+    # (可选)使用时播放音效
+    useSound: xxx
+    # (可选)使用完毕时播放音效
+    endSound: xxx
+    # (必须)使用物品后以控制台执行命令
+    # 玩家变量为%player%
+    cmd:
+    - 'spawn'

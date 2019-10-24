@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/mc我的世界/服务端/1.12行尸走肉/PaperSpigot-1.12.2.jar"/>
+	<classpathentry kind="lib" path="E:/mc我的世界/服务端/1.12行尸走肉/plugins/[登录]AuthMe-5.6.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/mc我的世界/服务端/1.12行尸走肉/plugins/[变量前置]PlaceholderAPI-2.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/mc我的世界/服务端/1.12行尸走肉/plugins/MythicMobs-4.6.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

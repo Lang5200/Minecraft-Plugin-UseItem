@@ -1,0 +1,7 @@
+name: UseItem
+author: Lang
+main: org.useitem.UseItem
+version: 1.0
+softdepend: [AuthMe]
+commands:
+  useitem:
